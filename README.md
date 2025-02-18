@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, Sou o Douglas Barcelos</h1>
-<h3 align="center">Apaixonado por Tecnologia e Programação</h3>
+<h1 align="center">Hi 👋, I am Douglas Barcelos</h1>
+<h3 align="center">Passionate about Technology and Programming</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Django**
+- 🌱 I'm currently learning **Python and Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
